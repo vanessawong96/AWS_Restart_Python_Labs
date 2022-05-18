@@ -1,0 +1,17 @@
+{
+   "menu":{
+      "1":10,
+      "2":10,
+      "3":5,
+      "4":5,
+      "5":3
+  
+   },
+   "item":{
+      "1":"Chicken Rice",
+      "2":"Burger",
+      "3":"Orange Juice",
+      "4":"Apple Juice",
+      "5":"Fried Egg"
+   }
+}
